@@ -20,11 +20,11 @@ public class Assignment {
         String grade = "";
         if (score >= 70 && score <=100){
             grade = "A";
-        }else if(score >= 55 && score <=69){
+        }else if(score >= 60 && score <=69){
             grade = "B";
-        }else if(score >= 50 && score <=54){
+        }else if(score >= 50 && score <=59){
             grade = "C";
-        }else if(score >= 45 && score <=50){
+        }else if(score >= 45 && score <=49){
             grade = "D";
         }else if(score >= 40 && score <=44){
             grade = "E";
