@@ -55,10 +55,10 @@ return point;
         System.out.println("Enter Course 1");
         String course1 = i.nextLine();
         
-        System.out.print("Enter" + course1 + "grade: ");
+        System.out.print("Enter " + course1 + " grade: ");
         int gradeUnit1 = i.nextInt();
         
-         System.out.print("Enter" + course1 + "Score : : ");
+         System.out.print("Enter " + course1 + " Score: ");
         double Score1 = i.nextDouble();
         
         i.nextLine();
@@ -67,10 +67,10 @@ return point;
         System.out.println("Enter Course 2");
         String course2 = i.nextLine();
         
-        System.out.print("Enter" + course2 + "grade: ");
+        System.out.print("Enter " + course2 + " grade: ");
         int gradeUnit2 = i.nextInt();
         
-         System.out.print("Enter" + course2 + "Score : : ");
+         System.out.print("Enter " + course2 + " Score: ");
         double Score2 = i.nextDouble();
         
         i.nextLine();
@@ -82,7 +82,7 @@ return point;
         System.out.print("Enter " + course3 + " grade: ");
         int gradeUnit3 = i.nextInt();
         
-         System.out.print("Enter " + course3 + " Score : : ");
+         System.out.print("Enter " + course3 + " Score: ");
         double Score3 = i.nextDouble();
         
         i.nextLine();
@@ -94,7 +94,7 @@ return point;
         System.out.print("Enter " + course4 + " grade: ");
         int gradeUnit4 = i.nextInt();
         
-         System.out.print("Enter " + course4 + " Score : : ");
+         System.out.print("Enter " + course4 + " Score: ");
         double Score4 = i.nextDouble();
         
         i.nextLine();
@@ -106,7 +106,7 @@ return point;
         System.out.print("Enter " + course5 + " grade: ");
         int gradeUnit5 = i.nextInt();
         
-        System.out.print("Enter " + course5 + " Score : : ");
+        System.out.print("Enter " + course5 + " Score: ");
         double Score5 = i.nextDouble();
         
         Assignment ds = new Assignment();
